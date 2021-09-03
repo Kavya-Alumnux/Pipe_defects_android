@@ -1,0 +1,5 @@
+cracks
+roots
+debris
+broken
+joint_displacement
